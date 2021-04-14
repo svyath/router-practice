@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/router-practice/static/css/main.77e25e05.chunk.css",
+    "main.js": "/router-practice/static/js/main.16b2f46e.chunk.js",
+    "main.js.map": "/router-practice/static/js/main.16b2f46e.chunk.js.map",
+    "runtime-main.js": "/router-practice/static/js/runtime-main.98c1a194.js",
+    "runtime-main.js.map": "/router-practice/static/js/runtime-main.98c1a194.js.map",
+    "static/js/2.94231363.chunk.js": "/router-practice/static/js/2.94231363.chunk.js",
+    "static/js/2.94231363.chunk.js.map": "/router-practice/static/js/2.94231363.chunk.js.map",
+    "index.html": "/router-practice/index.html",
+    "static/css/main.77e25e05.chunk.css.map": "/router-practice/static/css/main.77e25e05.chunk.css.map",
+    "static/js/2.94231363.chunk.js.LICENSE.txt": "/router-practice/static/js/2.94231363.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.98c1a194.js",
+    "static/js/2.94231363.chunk.js",
+    "static/css/main.77e25e05.chunk.css",
+    "static/js/main.16b2f46e.chunk.js"
+  ]
+}
