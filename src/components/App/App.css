@@ -18,3 +18,19 @@ nav {
   justify-content: space-around;
   align-items: center;
 }
+
+#itemId:hover {
+  color: darkcyan !important;
+  transition: 0.2s;
+}
+
+#shopLink {
+  text-decoration: none;
+  color: darkslategray;
+  font-size: 26px;
+}
+
+#shopLink:hover {
+  color: darkcyan;
+  transition: 0.2s;
+}
